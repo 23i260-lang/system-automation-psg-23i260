@@ -1,0 +1,132 @@
+
+========== AUTOMATION STARTED ==========
+
+[2026-10-10 16:11:35] [Tick 001]
+SENSE -> {'temperature': 24, 'humidity': 87, 'light': 26, 'motion': 'NO'}
+THINK -> HIGH_HUMIDITY
+ACT   -> Turn ON Exhaust Fan
+
+[2026-10-10 16:11:36] [Tick 002]
+SENSE -> {'temperature': 37, 'humidity': 30, 'light': 91, 'motion': 'YES'}
+THINK -> HIGH_TEMP
+ACT   -> Turn ON Fan
+
+[2026-10-10 16:11:37] [Tick 003]
+SENSE -> {'temperature': 36, 'humidity': 57, 'light': 42, 'motion': 'NO'}
+THINK -> HIGH_TEMP
+ACT   -> Turn ON Fan
+
+[2026-10-10 16:11:38] [Tick 004]
+SENSE -> {'temperature': 33, 'humidity': 82, 'light': 81, 'motion': 'YES'}
+THINK -> HIGH_TEMP
+ACT   -> Turn ON Fan
+
+[2026-10-10 16:11:39] [Tick 005]
+SENSE -> {'temperature': 39, 'humidity': 66, 'light': 58, 'motion': 'YES'}
+THINK -> HIGH_TEMP
+ACT   -> Turn ON Fan
+
+[2026-10-10 16:11:40] [Tick 006]
+SENSE -> {'temperature': 34, 'humidity': 89, 'light': 49, 'motion': 'NO'}
+THINK -> HIGH_TEMP
+ACT   -> Turn ON Fan
+
+[2026-10-10 16:11:41] [Tick 007]
+SENSE -> {'temperature': 21, 'humidity': 33, 'light': 52, 'motion': 'YES'}
+THINK -> NORMAL
+ACT   -> Everything is Normal
+
+[2026-10-10 16:11:42] [Tick 008]
+SENSE -> {'temperature': 27, 'humidity': 54, 'light': 73, 'motion': 'YES'}
+THINK -> NORMAL
+ACT   -> Everything is Normal
+
+[2026-10-10 16:11:43] [Tick 009]
+SENSE -> {'temperature': 25, 'humidity': 45, 'light': 33, 'motion': 'YES'}
+THINK -> NORMAL
+ACT   -> Everything is Normal
+
+[2026-10-10 16:11:44] [Tick 010]
+SENSE -> {'temperature': 35, 'humidity': 69, 'light': 56, 'motion': 'NO'}
+THINK -> HIGH_TEMP
+ACT   -> Turn ON Fan
+
+[2026-10-10 16:11:45] [Tick 011]
+SENSE -> {'temperature': 29, 'humidity': 45, 'light': 35, 'motion': 'YES'}
+THINK -> NORMAL
+ACT   -> Everything is Normal
+
+[2026-10-10 16:11:46] [Tick 012]
+SENSE -> {'temperature': 36, 'humidity': 89, 'light': 11, 'motion': 'NO'}
+THINK -> HIGH_TEMP
+ACT   -> Turn ON Fan
+
+[2026-10-10 16:11:47] [Tick 013]
+SENSE -> {'temperature': 30, 'humidity': 51, 'light': 42, 'motion': 'NO'}
+THINK -> NO_MOTION
+ACT   -> Turn OFF Lights
+
+[2026-10-10 16:11:48] [Tick 014]
+SENSE -> {'temperature': 22, 'humidity': 40, 'light': 30, 'motion': 'YES'}
+THINK -> NORMAL
+ACT   -> Everything is Normal
+
+[2026-10-10 16:11:49] [Tick 015]
+SENSE -> {'temperature': 31, 'humidity': 84, 'light': 45, 'motion': 'YES'}
+THINK -> HIGH_TEMP
+ACT   -> Turn ON Fan
+
+[2026-10-10 16:11:50] [Tick 016]
+SENSE -> {'temperature': 24, 'humidity': 37, 'light': 53, 'motion': 'YES'}
+THINK -> NORMAL
+ACT   -> Everything is Normal
+
+[2026-10-10 16:11:51] [Tick 017]
+SENSE -> {'temperature': 29, 'humidity': 57, 'light': 61, 'motion': 'YES'}
+THINK -> NORMAL
+ACT   -> Everything is Normal
+
+[2026-10-10 16:11:52] [Tick 018]
+SENSE -> {'temperature': 29, 'humidity': 60, 'light': 65, 'motion': 'YES'}
+THINK -> NORMAL
+ACT   -> Everything is Normal
+
+[2026-10-10 16:11:53] [Tick 019]
+SENSE -> {'temperature': 40, 'humidity': 66, 'light': 86, 'motion': 'YES'}
+THINK -> HIGH_TEMP
+ACT   -> Turn ON Fan
+
+[2026-10-10 16:11:54] [Tick 020]
+SENSE -> {'temperature': 38, 'humidity': 39, 'light': 42, 'motion': 'YES'}
+THINK -> HIGH_TEMP
+ACT   -> Turn ON Fan
+
+[2026-10-10 16:11:55] [Tick 021]
+SENSE -> {'temperature': 33, 'humidity': 88, 'light': 61, 'motion': 'NO'}
+THINK -> HIGH_TEMP
+ACT   -> Turn ON Fan
+
+[2026-10-10 16:11:56] [Tick 022]
+SENSE -> {'temperature': 25, 'humidity': 76, 'light': 6, 'motion': 'NO'}
+THINK -> HIGH_HUMIDITY
+ACT   -> Turn ON Exhaust Fan
+
+[2026-10-10 16:11:57] [Tick 023]
+SENSE -> {'temperature': 24, 'humidity': 44, 'light': 88, 'motion': 'NO'}
+THINK -> NO_MOTION
+ACT   -> Turn OFF Lights
+
+[2026-10-10 16:11:58] [Tick 024]
+SENSE -> {'temperature': 33, 'humidity': 43, 'light': 46, 'motion': 'YES'}
+THINK -> HIGH_TEMP
+ACT   -> Turn ON Fan
+
+[2026-10-10 16:11:59] [Tick 025]
+SENSE -> {'temperature': 39, 'humidity': 50, 'light': 38, 'motion': 'YES'}
+THINK -> HIGH_TEMP
+ACT   -> Turn ON Fan
+
+[2026-10-10 16:12:00] [Tick 026]
+SENSE -> {'temperature': 28, 'humidity': 90, 'light': 86, 'motion': 'NO'}
+THINK -> HIGH_HUMIDITY
+ACT   -> Turn ON Exhaust Fan

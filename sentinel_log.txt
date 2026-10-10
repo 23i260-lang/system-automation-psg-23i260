@@ -1,0 +1,11 @@
+[2026-10-10 16:27:53.366405] 
+========== NEW SESSION ==========
+[2026-10-10 16:29:24.128723] INPUT | M1 | Hydraulic Press | fire
+[2026-10-10 16:29:30.606668] INPUT | M2 | Cooling Unit | leak
+[2026-10-10 16:29:43.120800] INPUT | M3 | Assembly Robot | sensor failure
+[2026-10-10 16:29:52.646255] INPUT | M4 | Packaging Line | slow operation
+[2026-10-10 16:30:12.983233] INPUT | M5 | Power Generator | overheating
+[2026-10-10 16:30:12.997039] TOP PRIORITY | Hydraulic Press | fire | Risk 100 | Activate emergency procedures
+[2026-10-10 16:30:48.838418] UPDATE | M1 | smoke
+[2026-10-10 16:30:48.844963] TOP PRIORITY | Hydraulic Press | smoke | Risk 98 | Stop safely and investigate smoke
+[2026-10-10 16:30:51.652696] SESSION ENDED
